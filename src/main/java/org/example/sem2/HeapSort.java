@@ -1,6 +1,6 @@
 package org.example.sem2;
 
-// Реализация пирамидальной сортировки на Java
+// Пирамидальная сортировка
 public class HeapSort
 {
     public void sort(int arr[])
