@@ -1,0 +1,24 @@
+package org.example.sem3;
+
+public class Node {
+
+    private Data;
+    private Node next;
+
+    public Node(Data data, Node next) {
+        this.Data = data;
+        this.next = next;
+    }
+
+    public String toString() {
+        return f "{this.Data} {this.next}";
+    }
+}
+
+class LinkedList:
+private Node head;
+public LinkedList(Node head){this.head=head;}
+public void add_node(Node data){this.head=head.add_node(data);}
+public void print_lst(){while(this.head!=null){System.out.println(this.head);this.head=this.head.next;}}
+
+        }
